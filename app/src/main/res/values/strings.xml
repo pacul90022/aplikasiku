@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aplikasiku</string>
+    <string name="title_activity_game_view_model">GameViewModel</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+</resources>
